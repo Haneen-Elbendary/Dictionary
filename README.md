@@ -40,7 +40,8 @@ Feel free to explore and test the functionality of the application.
 ![searchOnPc](https://github.com/user-attachments/assets/513af3e4-94b9-4ed7-85da-6c103258ac65)
 
 ### On Phone
-![searchOnPhone](https://github.com/user-attachments/assets/01531c8f-9dfa-4feb-8c8a-5bf62a5365e5)
+
+![phoneWithoutBorderRadoius](https://github.com/user-attachments/assets/dd3e8bd8-e41b-4af1-a077-b401b370fe9c)
 
 
 
