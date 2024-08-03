@@ -45,6 +45,7 @@ button:focus {
   .content {
     width: 100%;
     padding: 30px 15px;
+    border-radius: 0;
   }
   .form-control {
     width: 100%;
