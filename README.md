@@ -10,6 +10,7 @@ This is a simple web application that allows users to search for words and retri
 - **Sound Pronunciation**: Users can listen to the pronunciation of the word.
 - **Responsive Design**: Utilizes Bootstrap for a responsive layout that adapts to different screen sizes.
 - **Modern UI**: Styled with custom CSS and integrated with Google Fonts and Font Awesome for an appealing design.
+- **Loading Spinner**: Displays a spinner while fetching data to indicate loading status.
 
 ## Technologies Used
 
@@ -38,6 +39,7 @@ Feel free to explore and test the functionality of the application.
 
 ### On PC
 ![searchOnPc](https://github.com/user-attachments/assets/513af3e4-94b9-4ed7-85da-6c103258ac65)
+![spinner](https://github.com/user-attachments/assets/1472073e-be29-4f60-ac01-dbf8dd4188f4)
 
 ### On Phone
 
